@@ -246,3 +246,15 @@ You are required to submit BOTH of the following for review:
 
 ---
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+
+
+--------------------------------
+use modela to see what we need
+
+get  gets it
+
+put  updates fields for item, like a table  so include items updating and id
+just update product name and the id
+
+post  adds an item / make correct structure with all fields in json body
