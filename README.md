@@ -2,7 +2,7 @@
 
 ## Assignemnt
 
-For the thirnteenth homework assignment in week thirteen of UNH Full-Stack Coding Bootcamp I was to modify starter code to configure a working Express.js API to use Sequelize to interact with a MySQL database.
+For the thirteenth homework assignment in week thirteen of UNH Full-Stack Coding Bootcamp I was to modify starter code to configure a working Express.js API to use Sequelize to interact with a MySQL database.
 
 ## Description
 ```
